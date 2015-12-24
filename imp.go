@@ -1,5 +1,5 @@
 package imp
 
-func Add(a, c int) int {
-	return a + c
+func Add(a, b int) int {
+	return a + b
 }
